@@ -1,7 +1,7 @@
 ---
 name: init
 description: Initialize Maister framework with intelligent project analysis and documentation generation
-argument-hint: [--standards-from=PATH]
+argument-hint: "[--standards-from=PATH]"
 ---
 
 # Initialize Maister Framework
